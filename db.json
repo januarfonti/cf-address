@@ -1,0 +1,33 @@
+{
+  "companyAddresses": [
+    {
+      "companyAddressId": 4,
+      "companyId": 26,
+      "addressType": 1,
+      "street": "Rolfstrasse",
+      "streetNo": "5",
+      "postal": "50696",
+      "city": "Posthornstedt",
+      "emailAddress": "billing@dhl.test",
+      "firstName": "hallo",
+      "lastName": "Luchsmann",
+      "country": "DE",
+      "standard": true
+    },
+    {
+      "companyAddressId": 13,
+      "companyId": 26,
+      "addressType": 1,
+      "street": "homburger str, 12",
+      "streetNo": "12",
+      "postal": "50969",
+      "city": "Köln",
+      "emailAddress": "ssss56484@gmail.com",
+      "firstName": "Souhir",
+      "lastName": "Ben Nasr",
+      "country": "AF",
+      "standard": false
+    }
+  ],
+  "amountOfCompanyAddresses": 2
+}
